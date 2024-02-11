@@ -114,7 +114,12 @@ const Navbar = () => {
             >
               Github Profile
             </GitHubButton>
-            <LinkedinButton href={Bio.linkedin} target="_blank">
+            <LinkedinButton    style={{
+                padding: "10px 16px",
+                background: `${theme.primary}`,
+                color: "white",
+                width: "max-content",
+              }} href={Bio.linkedin} target="_blank">
               Linkedin Profile
             </LinkedinButton>
           </MobileMenu>
