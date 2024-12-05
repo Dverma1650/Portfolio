@@ -5,7 +5,7 @@ export const Bio = {
     " Experienced and versatile Web Developer adept in JavaScript, React, Next.js, and TypeScript, with over 2 years of proven success. Known for delivering top-notch solutions across diverse organizational and client projects, consistently earning positive feedback. ",
   github: "https://github.com/Dverma1650",
   resume:
-    "https://drive.google.com/file/d/1S6gPHBWarfMtrGLpjkzSmMtQjUwTp2L6/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1ic8NVUzzELiBVG57qYQijvjzxtu8wC8M/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/deeksha-verma-392980198/",
 };
 
