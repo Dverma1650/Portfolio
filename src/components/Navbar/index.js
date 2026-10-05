@@ -33,6 +33,7 @@ const Navbar = () => {
               marginBottom: "20;",
               cursor: "pointer",
             }}
+            href="#"
           >
             <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
           </a>
