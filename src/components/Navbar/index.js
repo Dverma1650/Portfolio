@@ -10,7 +10,6 @@ import {
   ButtonContainer,
   MobileIcon,
   MobileMenu,
-  MobileNavLogo,
   MobileLink,
   LinkedinButton,
 } from "./NavbarStyledComponent";
@@ -114,12 +113,16 @@ const Navbar = () => {
             >
               Github Profile
             </GitHubButton>
-            <LinkedinButton    style={{
+            <LinkedinButton
+              style={{
                 padding: "10px 16px",
                 background: `${theme.primary}`,
                 color: "white",
                 width: "max-content",
-              }} href={Bio.linkedin} target="_blank">
+              }}
+              href={Bio.linkedin}
+              target="_blank"
+            >
               Linkedin Profile
             </LinkedinButton>
           </MobileMenu>
